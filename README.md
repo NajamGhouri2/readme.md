@@ -1,1 +1,3 @@
 # readme.md
+#NeverQuits
+#BeAgameChanger
